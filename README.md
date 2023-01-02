@@ -8,7 +8,7 @@ Through patience, organization, and maintaining a progressive mindset; handling 
 
 * 🌍  I'm based in Old Bridge, New Jersey
 * 🖥️  See my portfolio at [My Portfolio](http://malhill.github.io/Malcolms-Portfolio/)
-* 🧠  I'm learning React Native
+* 🧠  I'm currently learning and working with React Native
 * 🤝  I'm open to collaborating on Mobile and Full Stack Development
 
 ### Skills
